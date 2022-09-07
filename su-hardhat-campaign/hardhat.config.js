@@ -3,8 +3,7 @@ require("@nomicfoundation/hardhat-chai-matchers");
 require("@nomiclabs/hardhat-ethers");
 
 const INFURA_URL = "Enter Your API KEY";
-const PRIVATE_KEY =
-  "WALLET PRIVATE KEY";
+const PRIVATE_KEY = "WALLET PRIVATE KEY";
 
 module.exports = {
   solidity: "0.8.9",

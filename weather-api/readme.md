@@ -1,4 +1,4 @@
-# Weather - APP.
+# Weather - APi (APP).
 
 A minamilistic app that uses [weathermap](https://openweathermap.org/) API to fetch the relevant weather provided the cordinates and change the background images based on the report / output from following classes:
 
